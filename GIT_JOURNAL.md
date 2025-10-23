@@ -1,0 +1,1 @@
+I learned how branching, pull requests, and conflicts work in real Git projects. I first forgot to commit regularly and pushed wrong branches, but fixed them. The `git merge` conflict editor on GitHub and `git log` command saved the day.
