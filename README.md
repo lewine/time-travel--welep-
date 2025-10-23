@@ -12,3 +12,5 @@ Layout:
 Each article will have a structure of a title, intro, and summary.
 Content:
 Dependent on article
+Polish:
+Fix formatting and typos
