@@ -7,3 +7,6 @@ The .gitignore file excludes system and editor files to keep the repository clea
 1.7: 
 author/idea-sprint – Used for writing and experimenting with new zine ideas before review.  
 editor/review – Used for editing and polishing content before merging it into the main branch.
+
+Layout:
+Each article will have a structure of a title, intro, and summary.
