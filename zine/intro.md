@@ -1,1 +1,1 @@
-This is the intro in my zine about time machines.
+This is the intro in my zine about time machines. Rewrite intro.
